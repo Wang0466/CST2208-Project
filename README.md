@@ -1,4 +1,4 @@
-# YeWang
+# CST2208-Project
 Ye Wang's github for AC 
 Description:
 
